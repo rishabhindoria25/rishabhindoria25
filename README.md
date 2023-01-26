@@ -33,3 +33,4 @@ I took some ideas and got started:
       - Mail me : indoriarishabh25@gmail.com
 -  😄 Pronouns: ...
       - He/Him
+-  Find more about me [here](https://rishabhindoria.streamlit.app/)!
